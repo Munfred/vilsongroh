@@ -8,16 +8,15 @@ Vilson Groh moved in 1978  to a marginalized community in Florianópolis, then a
 ## Impact over the last 10 years
 
 Some results showing the impact of the Vilson Groh Institute results over the last 10 years:
-– Over US$26 million invested in actions of prevention, insertion, coexistence, strengthening of bonds and education;
-– Over US$400.000 transferred to organizations in the REDE IVG network;
-– Over 7 million meals offered
-– Over 1000 served by the Institute’s university preparation course and over 300 people started university after the preparation courses
-– 4.866 people supported per year on average
-– 2.105 young people enrolled under training and work programs
-– 225 technical and higher education scholarships
-– 2.219 families supported per year on average
-– 305 collaborators per year on average
-– 288 volunteers per year on average
+- Over US$26 million invested in actions of prevention, insertion, coexistence, strengthening of bonds and education;
+- Over US$400.000 transferred to organizations in the REDE IVG network;
+- Over 7 million meals offered
+- Over 1000 served by the Institute’s university preparation course and over 300 people started university after the preparation courses
+- 4.866 people supported per year on average
+- 2.105 young people enrolled under training and work programs
+- 225 technical and higher education scholarships
+- 2.219 families supported per year on average
+- 288 volunteers per year on average
 
 ![image](https://user-images.githubusercontent.com/12504176/139393813-8c3f7a2b-fd98-42ee-af15-97e1f740e539.png)
 
