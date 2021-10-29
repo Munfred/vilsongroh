@@ -33,7 +33,6 @@ If you wish to make a tax deductible donation in the US to support the Vilson Gr
 
 ## The Vilson Groh Network 
 
-
 Through Vilson Groh's leadership and that of many others, small projects have flourished and became reference organizations in communities. The the most prominent ones are:
 
 ![image](https://user-images.githubusercontent.com/12504176/139390647-9f9330ae-4103-4638-b3cc-f58b13ea0c3e.jpg)
@@ -73,7 +72,7 @@ Through Vilson Groh's leadership and that of many others, small projects have fl
 - ACAM (Mocotó Hill Children Friends Association), which welcomes children and adolescents in need of support at the Mocotó hill
 - CEDEP (Popular Education Center), which provides several cultural and educational initiatives
 - CCEA (Slave Anastácia Cultural Center) which welcomed children in the school day so as not to leave anyone on the street and maintains a shelter at Monte Serrat for children victims of violence and family problems
--
+
 As time went on other organizations joined the movement, and the Vilson Groh Institute was founded in 2011, to strengthen the actions of these organizations already under the leadership of Vilson Groh.
 
 ![image](https://user-images.githubusercontent.com/12504176/139395012-ae01d365-17a9-4f4a-b722-0bc186daf222.png)
